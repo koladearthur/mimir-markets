@@ -1,0 +1,21 @@
+{
+  "default_branch": "main",
+  "branches": [
+    "fix/issue-428-refactor-ui-split-dashboardportfoliosection",
+    "main",
+    "origin",
+    "security/issue-476-test-agents-add-an-end-to-end-oracle-settlement"
+  ],
+  "parent": {
+    "fix/issue-428-refactor-ui-split-dashboardportfoliosection": "main",
+    "main": null,
+    "origin": "main",
+    "security/issue-476-test-agents-add-an-end-to-end-oracle-settlement": "main"
+  },
+  "order": [
+    "main",
+    "fix/issue-428-refactor-ui-split-dashboardportfoliosection",
+    "origin",
+    "security/issue-476-test-agents-add-an-end-to-end-oracle-settlement"
+  ]
+}
